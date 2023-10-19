@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitmeesala&label=Profile%20views&color=0e75b6&style=flat" alt="ajitmeesala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitmeesala" alt="ajitmeesala" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ajit_meesala" target="blank"><img src="https://img.shields.io/twitter/follow/ajit_meesala?logo=twitter&style=for-the-badge" alt="ajit_meesala" /></a> </p>
 
 - 🔭 I’m currently working on [NewsApp](https://github.com/AjitMeesala/NewsApp)
