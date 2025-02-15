@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [NewsApp](https://github.com/AjitMeesala/NewsApp)
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AjitMeesala](https://github.com/AjitMeesala)
 
 - 💬 Ask me about **React, PHP, JS**
