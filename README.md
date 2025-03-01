@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajit_meesala" target="blank"><img src="https://img.shields.io/twitter/follow/ajit_meesala?logo=twitter&style=for-the-badge" alt="ajit_meesala" /></a> </p>
 
-- 🔭 I’m currently working on [NewsApp](https://github.com/AjitMeesala/NewsApp)
+- 🔭 I’m currently working on [inotebook](https://github.com/AjitMeesala/inotebook)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AjitMeesala](https://github.com/AjitMeesala)
 
